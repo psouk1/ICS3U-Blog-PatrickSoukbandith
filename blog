@@ -7,16 +7,14 @@
     <body>
         
         <h1>Patrick Soukbandith's blog</h1>
-
-        <h3>Contents</h3>
-        <ul>
-            <li>First post!</li>
-        </ul>
-        
-        <h2>First post</h2>
-        <h6>Posted on some date in some year</h6>
-        
-        <p>Something excited happened.</p>
+March 21st, 2018
+        <h3>What I learned</h3>
+       I learned how to create shapes in motion.
+       <h3>What I didn't learn</h3>
+       I didn't learn how to control the colour.
+       <h3>What I hope to learn</h3>
+       I hope to learn how to control the colour
+       
         
         
     </body>
